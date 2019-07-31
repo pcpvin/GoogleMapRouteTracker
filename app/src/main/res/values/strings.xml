@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapUtility</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="source">Lajpat Nagar</string>
+    <string name="i_am_snippet">I am snippet</string>
+    <string name="destination">India Gate, New Delhi, Delhi 110048</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on the device.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+</resources>
